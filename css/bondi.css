@@ -134,3 +134,14 @@ nav {
     max-width: 500px;
 }
 /* End stuff */
+/* Start team */
+.team {
+    background-color: var(--section-color);
+}
+.team h2 {
+    color: var(--yellow-color);
+}
+.team .box h4 {
+    background-color: var(--green-color);
+}
+/* End team */
