@@ -150,3 +150,13 @@ nav {
     background-color: var(--dark-color);
 }
 /* End project */
+/* Start blog */
+.blog .box {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+.blog .box img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+/* End blog */
