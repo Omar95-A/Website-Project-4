@@ -211,4 +211,21 @@ nav {
 .footer ul.social li a svg.github {
     background-color: #333;
 }
+.footer .container .info p {
+    text-align: center;
+}
+.footer .container .info p {
+    margin-top: 20px;
+    color: white;
+}
+
+.footer .container .info p span a {
+    text-decoration: none;
+    color: var(--green-color);
+}
+
+.footer .container .info p span {
+    font-weight: bold;
+    color: var(--green-color);
+}
 /* End footer */
