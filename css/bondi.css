@@ -160,3 +160,28 @@ nav {
     border-top-right-radius: 10px;
 }
 /* End blog */
+/* Start subscribe */
+.subscribe {
+    background-color: var(--yellow-color);
+}
+.subscribe form .text {
+    color: var(--dark-color);
+}
+.subscribe form input[type="email"] {
+    border-color: transparent transparent white transparent ;
+    border-width: 1px;
+    outline: none;
+}
+.subscribe form input[type="email"]::placeholder {
+    color: white;
+}
+
+.subscribe form input[type="submit"] {
+    color: var(--yellow-color);
+    background-color: var(--dark-color);
+    padding: 0.80rem 1rem;
+    border-radius: 50rem;
+    border: none;
+    
+}
+/* End subscribe */
