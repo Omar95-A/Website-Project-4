@@ -185,3 +185,30 @@ nav {
     
 }
 /* End subscribe */
+/* Start footer */
+.footer {
+    background-color: var(--dark-color);
+}
+.footer .row .copyright span {
+    color: var(--green-color);
+}
+.footer .row .date span {
+    color: var(--yellow-color);
+}
+.footer ul.social li a svg {
+    width: 20px;
+    height: 20px;
+}
+.footer ul.social li a svg.facebook {
+    background-color: #1877f2;
+}
+.footer ul.social li a svg.twitter {
+    background-color: #1da1f2;
+}
+.footer ul.social li a svg.linkedin {
+    background-color: #0a66c2;
+}
+.footer ul.social li a svg.youtube {
+    background-color: #ff0000;
+}
+/* End footer */
