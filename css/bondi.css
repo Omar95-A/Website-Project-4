@@ -112,6 +112,9 @@ nav {
     position: relative;
     padding: 5px;
 }
+.our-work .row .box:hover {
+    cursor: pointer;
+}
 .our-work .row .box::before {
     content: attr(data-word);
     position: absolute;
