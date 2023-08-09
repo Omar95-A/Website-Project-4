@@ -202,13 +202,13 @@ nav {
 .footer ul.social li a svg.facebook {
     background-color: #1877f2;
 }
-.footer ul.social li a svg.twitter {
-    background-color: #1da1f2;
+.footer ul.social li a svg.instagram {
+    background-color: #e1306c;
 }
 .footer ul.social li a svg.linkedin {
     background-color: #0a66c2;
 }
-.footer ul.social li a svg.youtube {
-    background-color: #ff0000;
+.footer ul.social li a svg.github {
+    background-color: #333;
 }
 /* End footer */
