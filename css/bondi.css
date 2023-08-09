@@ -97,13 +97,15 @@ nav {
     padding: 0.5rem 1rem;
     cursor: pointer;
 }
-.our-work ul li.active {
+/* .our-work ul li.active {
     background-color: var(--red-color);
     color: var(--yellow-color);
     border-radius: 12px;
-}
+} */
 .our-work ul li:not(.active):hover {
-    color: var(--red-color);
+    background-color: var(--red-color);
+    color: var(--yellow-color);
+    border-radius: 12px;
 }
 .our-work .row .box {
     overflow: hidden;
