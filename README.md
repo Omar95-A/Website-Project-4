@@ -6,6 +6,6 @@
 
 #### To be clear, the images in this website are of people that do not exist. They are not real, they are from a site that offers images of fake people AI generated. The names are also fake names.
 
-For work on this website I used [Bondi](https://elzero.org/bootstrap-5-design-01-bondi/#google_vignette) - One Page Creative PSD Template.
+For work on this website I used [Bondi](https://elzerowebschool.github.io/Bootstrap_5_Design_01_Bondi/) - One Page Creative PSD Template.
 
 #### Special Thanks To [Osama Elzero](https://elzero.org/category/courses/html-and-css-practice/).
